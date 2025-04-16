@@ -1,12 +1,16 @@
-# React + Vite
+# Business Contact Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive contact form built with **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+![Ekran görüntüsü 2025-04-16 134422](https://github.com/user-attachments/assets/48db2d7b-7847-4673-9d0a-a93634ef6033)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Ekran görüntüsü 2025-04-16 134457](https://github.com/user-attachments/assets/1c93f2be-2238-4ce9-9968-09eb8500385f)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **React**
+- **Tailwind CSS**
+- **Vite**
+
+---
